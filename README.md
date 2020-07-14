@@ -8,7 +8,7 @@
 
 - 📙 Carrousel feito com HTML, CSS e JS;
 - 📚 Projeto desenvolvido para estudar HTML & CSS.
-- 🚀 Feito com base na aula: https://www.youtube.com/watch?v=wHzpWi3FxI8&t=30s
+- 🚀 Feito com base na aula: https://www.youtube.com/watch?v=SGwHpzgqzgk&list=PL85ITvJ7FLoifcDIBeuuAhh4_799RZaSc
 
 ---
 
