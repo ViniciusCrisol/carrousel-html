@@ -1,6 +1,6 @@
 # 📌 Carrousel HTML
 
-<p align="center"><img src="https://i.ibb.co/Hd9JhW3/screenshot-localhost-3000-1594244733748-2.png"/></p>
+<p align="center"><img src="https://i.ibb.co/F0mdc7G/ezgif-com-video-to-gif.gif"/></p>
 
 #
 
